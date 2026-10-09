@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "package_id": "synthetic-v1",
+  "synthetic": true,
+  "files": [
+    {
+      "path": "examples/synthetic.json",
+      "sha256": "4981187c73880f65c570ea2dd626961520502baa412310ed41c239e40d905459",
+      "license": "synthetic-CC0"
+    }
+  ]
+}

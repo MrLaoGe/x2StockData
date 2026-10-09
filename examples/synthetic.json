@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "dataset": "daily_bars",
+  "rows": [
+    {
+      "security_id": "SYNTHETIC.SZ",
+      "trade_date": "2026-10-09",
+      "close": 10.0,
+      "pct_change": 1.0,
+      "amount": 1000.0,
+      "volume": 100.0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+*.sqlite*
+*.duckdb
+.env*
+private/
+.upload-state.json
+*.part
+*.staging/
+__pycache__/
+*.pyc

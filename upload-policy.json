@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "repository": "MrLaoGe/x2StockData",
+  "interval_seconds": 86400,
+  "allowed_licenses": [
+    "synthetic-CC0"
+  ],
+  "incremental": "sha256-content-addressed",
+  "requires_existing_repository_check": true
+}
